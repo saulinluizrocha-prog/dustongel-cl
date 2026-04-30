@@ -8,8 +8,7 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link rel="icon" href="assets/favicon.ico">
     <title> Comprar Duston Gel barato. Precios, opiniones. ¡Pedir Duston Gel Ahora! </title>
-     <!-- INTH_SNIPPET_TOP -->
-	<meta charset="UTF-8">
+     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Duston Gel Oficial Chile | 50% Descuento y Pago Contra Reembolso</title>
 <meta name="description" content="Recupera tu movilidad con Duston Gel. Cuidado articular con fórmula original. Ahorra $38.990 CLP hoy. ¡Pide ahora y paga al recibir en todo Chile!">
@@ -133,8 +132,7 @@
   src="https://cdn.cckdl.com/js/base.min.js">
 </script>
 
-	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17545472212"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17545472212"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -415,7 +413,17 @@
                 Descargo de responsabilidad: Este producto es de uso tópico y no es un medicamento. Sus resultados pueden variar según cada persona. No pretende diagnosticar, tratar, curar ni prevenir ninguna enfermedad. Consulte a su médico ante cualquier duda.
             </div>
 
-        </div>
+            <nav aria-label="Enlaces Legales" style="text-align: center; margin-top: 25px; padding-top: 15px; border-top: 1px solid #ddd;">
+                <ul style="list-style: none; padding: 0; margin: 0; display: inline-flex; flex-wrap: wrap; justify-content: center; gap: 20px; font-size: 13px;">
+                    <li><a href="nosotros.html" style="color: #666; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#f36f21'" onmouseout="this.style.color='#666'">Sobre Nosotros</a></li>
+                    <li><a href="contacto.html" style="color: #666; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#f36f21'" onmouseout="this.style.color='#666'">Contacto</a></li>
+                    <li><a href="privacidad.html" style="color: #666; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#f36f21'" onmouseout="this.style.color='#666'">Política de Privacidad</a></li>
+                    <li><a href="terminos.html" style="color: #666; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#f36f21'" onmouseout="this.style.color='#666'">Términos de Uso</a></li>
+                    <li><a href="reembolso.html" style="color: #666; text-decoration: none; transition: color 0.3s;" onmouseover="this.style.color='#f36f21'" onmouseout="this.style.color='#666'">Política de Devoluciones</a></li>
+                </ul>
+                <p style="font-size: 11px; color: #aaa; margin-top: 10px;">&copy; 2026 Duston Gel Chile Oficial. Todos los derechos reservados.</p>
+            </nav>
+            </div>
     </footer>
     <div class="sec sec10"></div>
     
