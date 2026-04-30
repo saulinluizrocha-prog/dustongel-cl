@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-CL">
 <head>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <meta charset="utf-8">
@@ -9,6 +9,23 @@
     <link rel="icon" href="assets/favicon.ico">
     <title> Comprar Duston Gel barato. Precios, opiniones. ¡Pedir Duston Gel Ahora! </title>
      <!-- INTH_SNIPPET_TOP -->
+
+<script defer
+  data-tag="CD3xmyG7K8yrNxp6ekqoNb"
+  src="https://cdn.cckdl.com/js/base.min.js">
+</script>
+
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17545472212"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17545472212');
+</script>
+
+	<meta name="google-site-verification" content="OZ9y92gjrVGx7BCZrwjEiJqnUBSMea5Pd7iJuMbMOGk" />
 </head>
 <body>
 <div class="overflow">
