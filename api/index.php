@@ -9,6 +9,124 @@
     <link rel="icon" href="assets/favicon.ico">
     <title> Comprar Duston Gel barato. Precios, opiniones. ¡Pedir Duston Gel Ahora! </title>
      <!-- INTH_SNIPPET_TOP -->
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Duston Gel Oficial Chile | 50% Descuento y Pago Contra Reembolso</title>
+<meta name="description" content="Recupera tu movilidad con Duston Gel. Cuidado articular con fórmula original. Ahorra $38.990 CLP hoy. ¡Pide ahora y paga al recibir en todo Chile!">
+<meta name="keywords" content="Duston Gel, Duston Gel Chile, alivio articular, gel para articulaciones, pago contra reembolso, comprar Duston Gel">
+<link rel="canonical" href="https://dustongel-cl.vercel.app/">
+<meta name="robots" content="index, follow">
+<meta name="language" content="Spanish">
+<meta name="geo.region" content="CL">
+<meta name="author" content="Duston Gel Oficial">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+
+<meta property="og:title" content="Duston Gel Oficial - 50% Off">
+<meta property="og:description" content="Bienestar y movilidad articular. Paga seguro al recibir en casa.">
+<meta property="og:type" content="product">
+<meta property="og:url" content="https://dustongel-cl.vercel.app/">
+<meta property="og:locale" content="es_CL">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Duston Gel a $38.990 CLP">
+<meta name="twitter:description" content="Ahorra 50% hoy y paga en la puerta de tu casa.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://dustongel-cl.vercel.app/#product",
+      "name": "Duston Gel",
+      "description": "Gel de aplicación tópica para el alivio y bienestar articular. Fórmula original diseñada para recuperar la movilidad natural.",
+      "image": "https://dustongel-cl.vercel.app/images/product-image.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "Duston"
+      },
+      "sku": "DG-CL-001",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://dustongel-cl.vercel.app/",
+        "priceCurrency": "CLP",
+        "price": "38990",
+        "priceValidUntil": "2026-12-31",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "Duston Gel Chile Oficial"
+        },
+        "acceptedPaymentMethod": {
+          "@type": "PaymentMethod",
+          "name": "CashOnDelivery"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "124"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "María G."
+          },
+          "datePublished": "2025-10-15",
+          "reviewBody": "Excelente producto, llegó muy rápido y me encantó poder pagar en efectivo al repartidor. Me da mucha confianza.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://dustongel-cl.vercel.app/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo funciona el pago contra reembolso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es muy seguro. Haces tu pedido llenando el formulario, enviamos el producto a tu domicilio en Chile y tú pagas en efectivo o tarjeta directamente al repartidor solo cuando recibes el Duston Gel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Tienen alguna garantía?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, contamos con una garantía incondicional de 365 días para asegurar tu total satisfacción con tu compra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es el precio y el descuento actual?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El precio normal es de $77.980 CLP, pero hoy tenemos una oferta del 50% de descuento. Pagarás solo $38.990 CLP por unidad."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://dustongel-cl.vercel.app/#health",
+      "name": "Información sobre Bienestar Articular",
+      "about": {
+        "@type": "HealthTopicContent",
+        "name": "Cuidado Articular y Movilidad"
+      }
+    }
+  ]
+}
+</script>
 
 <script defer
   data-tag="CD3xmyG7K8yrNxp6ekqoNb"
