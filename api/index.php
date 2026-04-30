@@ -41,7 +41,7 @@
             <h4 class="header__title title">
                 ¿Te duelen las articulaciones <span class="nowrap">o la espalda? </span></h4>
             <p>
-                ¡Las cápsulas Duston Gel es un producto eficaz para <span class="nowrap"> la osteocondrosis</span>, la artrosis y las
+                ¡El gel Duston Gel es un producto ideal para ayudar a aliviar las molestias de <span class="nowrap"> la osteocondrosis</span>, la artrosis y las
                 lesiones! </p>
         </div>
     </header>
@@ -59,12 +59,12 @@
             </div>
             <ul class="sec2__list">
                 <li class="sec2__item">
-                    Ayuda a aliviar el síndrome <span class="nowrap">del dolor</span>
+                    Ayuda a aliviar la sensación <span class="nowrap">de dolor</span>
                 </li>
-                <li class="sec2__item"> Ayuda a fortalecer los cartílagos</li>
-                <li class="sec2__item"> Ayuda a reducir el hipertono muscular</li>
-                <li class="sec2__item"> Ayuda a aliviar la hinchazón</li>
-                <li class="sec2__item"> Ayuda a reducir las inflamaciones</li>
+                <li class="sec2__item"> Contribuye al bienestar articular</li>
+                <li class="sec2__item"> Ayuda a relajar la tensión muscular</li>
+                <li class="sec2__item"> Ayuda a disminuir la hinchazón</li>
+                <li class="sec2__item"> Aporta un alivio reconfortante</li>
             </ul>
             <div class="sec2__prices prices">
                 <div class="prices__container">
@@ -73,15 +73,15 @@
                         <span>Precio con descuento</span>
                     </p>
                     <div class="prices__old prices__item">
-                        <span class="x_price_previous">77980  </span> <span class="x_currency">CLP</span>
+                        <span class="x_price_previous">$77.980  </span> <span class="x_currency">CLP</span>
                     </div>
                     <div class="prices__new prices__item">
-                        <span class="x_price_current">38990   </span> <span class="x_currency">CLP</span>
+                        <span class="x_price_current">$38.990   </span> <span class="x_currency">CLP</span>
                     </div>
 
                 </div>
                 <div class="ever-popup-btn button button--orange pre_toform">
-                    PEDIR
+                    SOLICITAR CON 50% DE DCTO
                 </div>
             </div>
         </div>
@@ -90,15 +90,10 @@
         <div class="wrapper">
             <div class="sec3__text">
                 <p>
-                    <i> Duston Gel </i> es un producto que ayuda a reducir rápidamente el dolor debido a la artrosis y
-                    la osteocondrosis. Atenúa el espasmo muscular y la inflamación. Duston Gel también es eficaz para
-                    aliviar los dolores causados por la osteocondrosis y la artrosis porque reduce el proceso de
-                    degeneración del tejido cartilaginoso y mejora su metabolismo, promoviendo el fortalecimiento del
-                    cartílago articular. </p>
-                <p> El efecto positivo puede notarse después de la primera aplicación. Si se usa regularmente, los
-                    dolores de las articulares y de la columna vertebral disminuyen. </p>
+                    <i> Duston Gel </i> es un producto de aplicación tópica que ayuda a reducir las molestias causadas por el desgaste articular y muscular. Su efecto relajante y refrescante contribuye a mejorar tu movilidad diaria, aportando confort en zonas específicas de tensión. </p>
+                <p> El efecto positivo de alivio suele notarse rápidamente tras su aplicación. Usado regularmente junto con masajes suaves, ayuda a mantener el bienestar de tu cuerpo. </p>
                 <div class="ever-popup-btn button button--purple pre_toform">
-                    Duston Gel está elaborado exclusivamente de componentes activos
+                    Duston Gel está elaborado con componentes activos
                 </div>
             </div>
         </div>
@@ -126,26 +121,26 @@
                             </li>
                         </ul>
                         <div class="question__button button button--next">
-                            ADELANTE >>>
+                            SIGUIENTE >>>
                         </div>
                     </li>
                     <li class="question">
                         <div class="question__title">
-                            2. ¿Has tenido alguna lesión, esguince, contusión, fractura?
+                            2. ¿Has tenido alguna lesión, esguince, contusión o fractura?
                         </div>
                         <ul class="question__variants">
                             <li>
-                                Sí, me rompo algo una vez cada un par de años
+                                Sí, me he quebrado/fracturado algo
                             </li>
                             <li>
                                 Nada serio que requiera ir al hospital
                             </li>
                             <li>
-                                Lesiones de poca importancia, a todos nos pasa
+                                Lesiones menores, a todos nos pasa
                             </li>
                         </ul>
                         <div class="question__button button button--next">
-                            ADELANTE >>>
+                            SIGUIENTE >>>
                         </div>
                     </li>
                     <li class="question">
@@ -164,15 +159,11 @@
                             </li>
                         </ul>
                         <div class="question__button button button--next button--next--last">
-                            ADELANTE >>>
+                            VER RESULTADO >>>
                         </div>
                     </li>
-                    <li class="question test__final"> Es imposible saber de antemano cuándo tendrás una lesión o una
-                        contusión, ¡pero es fácil aliviarlas lo más rápido posible! Prueba <span>  Duston Gel  </span> –
-                        un producto que ayudará en cualquier situación, ya sea un esguince, una contusión o artrosis. La
-                        capacidad única de <span>  Duston Gel  </span> para aliviar el dolor y la inflamación te dará
-                        confianza en cualquier situación. El uso prolongado de este cápsulas ayudará a aliviar las
-                        enfermedades antiguas y ayuda a regenerar el tejido cartilaginoso.
+                    <li class="question test__final"> Es imposible saber de antemano cuándo tendrás un esguince o dolor, ¡pero es fácil tener alivio a la mano! Prueba <span>  Duston Gel  </span> –
+                        un gel tópico que aporta alivio y confort en cualquier situación, ya sea tensión muscular, mala postura o cansancio físico. El uso regular de este gel, acompañado de buenos hábitos, contribuye enormemente a tu calidad de vida diaria.
                     </li>
                 </ul>
             </div>
@@ -180,7 +171,7 @@
     </div>
     <div class="sec sec5">
         <div class="wrapper">
-            Ventajas las cápsulas Duston Gel para la espalda <span class="nowrap">y las articulaciones</span>
+            Ventajas del gel Duston Gel para tu espalda <span class="nowrap">y articulaciones</span>
         </div>
     </div>
     <div class="sec sec6">
@@ -191,9 +182,9 @@
                         <img src="assets/images/sec6_img1.png" alt="img">
                     </div>
                     <div class="sec6__item-title">
-                        UNA AMPLIA VARIEDAD DE ACCIONES
+                        ALIVIO RECONFORTANTE
                     </div>
-                    <p> ayuda a aliviar los síntomas de las enfermedades articulares, de la columna vertebral <span class="nowrap">y de la edad</span> </p>
+                    <p> Ayuda a aliviar la sensación de cansancio y tensión muscular <span class="nowrap">por la edad o ejercicio</span> </p>
                 </li>
                 
                 <li class="sec6__item">
@@ -201,18 +192,18 @@
                         <img src="assets/images/sec6_img3.png" alt="img">
                     </div>
                     <div class="sec6__item-title">
-                        COMPOSICIÓN NATURAL
+                        FÓRMULA SEGURA
                     </div>
-                    <p> solo componentes activos <span class="nowrap">de plantas</span> </p>
+                    <p> Con extractos activos <span class="nowrap">y naturales</span> </p>
                 </li>
                 <li class="sec6__item">
                     <div class="sec6__item-img">
                         <img src="assets/images/sec6_img4.png" alt="img">
                     </div>
                     <div class="sec6__item-title">
-                        ALTA EFICACIA
+                        RÁPIDA ABSORCIÓN
                     </div>
-                    <p> ayuda a mejorar la salud y a reducir el dolor después del primer uso </p>
+                    <p> Penetra en la piel rápidamente sin dejar sensación grasa </p>
                 </li>
                 
             </ul>
@@ -221,22 +212,22 @@
     <div class="sec sec7">
         <div class="wrapper">
             <div class="sec7__title">
-                ¿Cómo usar Duston Gel?
+                ¿Cómo aplicar Duston Gel?
             </div>
             
             <ul class="sec7__list">
                 <li class="sec7__item">
                     <div class="sec7__img"></div>
-                    <p>3 cápsulas</p>
+                    <p>Aplicar en la zona</p>
                 </li>
                 <li class="sec7__item">
                     <div class="sec7__img"></div>
-                    <p>Con el desayuno </p>
+                    <p>Masajear suavemente</p>
                 </li>
                 
                 <li class="sec7__item">
                     <div class="sec7__img"></div>
-                    <p>Curso: 30 días</p>
+                    <p>Uso sugerido: 1-2 veces al día</p>
                 </li>
 
             </ul>
@@ -245,21 +236,21 @@
     <div class="sec sec8">
         <div class="wrapper">
             <div class="sec8__title">
-                ¿Cómo pedir las cápsulas Duston Gel para la columna vertebral y las articulaciones?
+                ¿Cómo pedir el gel Duston Gel?
             </div>
             <ul class="sec8__list">
                 <li class="sec8__item">
                     <div class="sec8__item-img"></div>
-                    <p> completa el formulario de pedido </p>
+                    <p> Completa el formulario con tu número </p>
                 </li>
                 <li class="sec8__item">
                     <div class="sec8__item-img"></div>
-                    <p> elige el método <span class="nowrap">de envío</span> </p>
+                    <p> Te llamaremos para confirmar <span class="nowrap">el envío</span> </p>
                 </li>
                 <li class="sec8__item">
                     <div class="sec8__item-img"></div>
                     <p>
-                        paga el producto cuando lo recibas </p>
+                        Pagas al recibir el producto en tu casa </p>
                 </li>
             </ul>
         </div>
@@ -280,10 +271,10 @@
                         El número de unidades con descuento es limitado </p>
                     <div class="price">
                         <div class="prices__old prices__item">
-                            <span class="x_price_previous">77980  </span> <span class="x_currency">CLP</span>
+                            <span class="x_price_previous">$77.980  </span> <span class="x_currency">CLP</span>
                         </div>
                         <div class="prices__new prices__item">
-                            <span class="x_price_current">38990   </span> <span class="x_currency">CLP</span>
+                            <span class="x_price_current">$38.990   </span> <span class="x_currency">CLP</span>
                         </div>
                     </div>
                 </div>
@@ -294,13 +285,18 @@
                         <input id="name" name="name" placeholder=" Ejemplo: Juan Díaz " type="text" required>
                     </div>
                     <div class="form__row">
-                        <label for="phone"> TELÉFONO </label>
-                        <input class="only_number" id="phone" name="phone" placeholder=" Ejemplo: +56 *********  " type="tel"    onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"    required>
+                        <label for="phone"> TELÉFONO CELULAR </label>
+                        <input class="only_number" id="phone" name="phone" placeholder="Ejemplo: +56 9 XXXX XXXX" type="tel"    onkeyup="this.value=this.value.replace(/\s/,'')" minlength="10"    required>
                     </div>
                   
-                    <button class="button button--orange  button__text" type="submit"> PEDIR</button>
+                    <button class="button button--orange  button__text" type="submit"> SOLICITAR CON 50% DE DCTO </button>
             </form>
             </div>
+            
+            <div style="font-size: 11px; color: #999; text-align: center; margin-top: 20px; line-height: 1.4;">
+                Descargo de responsabilidad: Este producto es de uso tópico y no es un medicamento. Sus resultados pueden variar según cada persona. No pretende diagnosticar, tratar, curar ni prevenir ninguna enfermedad. Consulte a su médico ante cualquier duda.
+            </div>
+
         </div>
     </footer>
     <div class="sec sec10"></div>
@@ -322,11 +318,11 @@
                         <input id="name1" name="name" placeholder="Ejemplo: Juan Díaz " type="text" required>
                     </div>
                     <div class="form__row">
-                        <label for="phone1"> TELÉFONO </label> 
-                        <input class="only_number" id="phone1" name="phone" placeholder="Ejemplo: +56 *********" type="tel"    onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"    required>
+                        <label for="phone1"> TELÉFONO CELULAR </label> 
+                        <input class="only_number" id="phone1" name="phone" placeholder="Ejemplo: +56 9 XXXX XXXX" type="tel"    onkeyup="this.value=this.value.replace(/\s/,'')" minlength="10"    required>
                     </div>
 
-                    <button class="button button--orange  button__text" type="submit"> PEDIR</button>
+                    <button class="button button--orange  button__text" type="submit"> SOLICITAR CON 50% DE DCTO</button>
                 </form>
                 
             </div>
@@ -501,18 +497,18 @@ function initiate(cookies) {
 	}
 
 	function hidePopup() {
-		//функция для скрытия попапа
+		//функция pentru ocultarea popup-ului
 		var popup = document.querySelector('.ever-popup');
 		popup.classList.remove('show')
 	}
 
 	function notHide(e) {
-		//функция для прерывания выполнения сценария по клику
+		//функция pentru anularea propagarii
 		e.stopPropagation()
 	}
 
 	function checkCode(event) {
-		// проверка кода подлинности
+		// проверка кода
 		event.preventDefault();
 
 		var code = document.querySelector(".check__field").value,
@@ -530,7 +526,7 @@ function initiate(cookies) {
 	if (cookies['popup_mouseout_enabled'] == 'true') {
 		var mouseOutCount = 0;
 		document.body.addEventListener('mouseleave', function (event) {
-			//событие на увод мышки со страницы. если мышка уходит за верхнюю границу документа, вызывается попап
+			//событие na mouse leave
 			var e = event || window.event;
 			e = e.clientY;
 			var popup = document.querySelector('.ever-popup');
@@ -542,7 +538,7 @@ function initiate(cookies) {
 		});
 	}
 	function addPhoneBtn(breakpoint) {
-		// добавление синей трубки для вызова попапа на десктопе
+		// добавление синей трубки
 		var phoneBtnContainer = document.createElement('div');
 		phoneBtnContainer.classList.add('phoneBtnContainer');
 		phoneBtnContainer.innerHTML = '<div class="bluePhone"><div class=" phone-call cbh-phone cbh-green cbh-show ever-popup-btn cbh-static" id="clbh_phone_div"><div class="phoneJs"><div class="cbh-ph-circle"></div><div class="cbh-ph-circle-fill"></div><div class="cbh-ph-img-circle1"></div></div></div></div>';
@@ -760,4 +756,4 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
     }
 }
 ?>
-</body></html> 
+</body></html>
